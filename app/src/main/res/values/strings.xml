@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wifi Reconnector</string>
+    <string name="title_section1">Wifi Reconnector</string>
+
+    <string name="title_section2">Dev..</string>
+    <string name="title_section3">Dev..</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example"> </string>
+    <string name="action_settings">Settings</string>
+
+    // toast
+    <string name="toastEmptyStr">not allow empty SSID</string>
+
+    // label
+    <string name="labelSSID">SSID</string>
+    <string name="labelPW">PW</string>
+    <string name="labelConfig">Config</string>
+    <string name="labelConnect">Connect</string>
+
+    // hint
+    <string name="hintApNameHere">ex)Hello Our Wifi</string>
+    <string name="hintPwHere">ex)Hello Our Wifi</string>
+</resources>
